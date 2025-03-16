@@ -56,7 +56,6 @@
         <activity
             android:name=".ReferenceActivity"
             android:exported="true" />
-        <activity android:name=".CvTemplateActivity" android:exported="true" />
 
 
     </application>
