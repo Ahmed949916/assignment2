@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="summary">Summary</string>
+    <string name="education">Education</string>
+    <string name="experience">Experience</string>
+    <string name="certifications">Certifications</string>
+    <string name="references">References</string>
+    <string name="section_title">Section Title</string>
+    <string name="ppic">ppic</string>
+    <string name="wsection_title">Section Titlew</string>
+    <string name="save">Save</string>
+    <string name="enter_your_summary">Enter your summary</string>
+    <string name="cancel">Cancel</string>
+    <string name="generate_cv">Generate CV</string>
+    <string name="introduction">Introduction</string>
+    <string name="cv_builder">CV BUILDER</string>
+    <string name="image">Image</string>
+</resources>

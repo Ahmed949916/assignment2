@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Introduction Section -->
+        <TextView
+            android:id="@+id/tvCvIntroduction"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:padding="8dp"
+            android:background="#FFC1A1"
+            android:layout_marginBottom="8dp"/>
+
+        <!-- Summary Section -->
+        <TextView
+            android:id="@+id/tvCvSummary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:padding="8dp"
+            android:background="#FFD700"
+            android:layout_marginBottom="8dp"/>
+
+        <!-- Education Section -->
+        <TextView
+            android:id="@+id/tvCvEducation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:padding="8dp"
+            android:background="#98FB98"
+            android:layout_marginBottom="8dp"/>
+
+        <!-- Experience Section -->
+        <TextView
+            android:id="@+id/tvCvExperience"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:padding="8dp"
+            android:background="#87CEFA"
+            android:layout_marginBottom="8dp"/>
+
+        <!-- Certifications Section -->
+        <TextView
+            android:id="@+id/tvCvCertifications"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:padding="8dp"
+            android:background="#FFB6C1"
+            android:layout_marginBottom="8dp"/>
+
+        <!-- References Section -->
+        <TextView
+            android:id="@+id/tvCvReferences"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:padding="8dp"
+            android:background="#D8BFD8"
+            android:layout_marginBottom="8dp"/>
+
+    </LinearLayout>
+</ScrollView>
